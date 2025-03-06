@@ -10,8 +10,8 @@ For a detailed overview of the project, including design concepts, implementatio
 [StickManBadminton Presentation](https://docs.google.com/presentation/d/1zoz6aC_Ih6Uw6YF6MzBEiaykrYxHg3aTIHqkL9wZQng/edit?usp=sharing)
 
 ### Demo Video
-Check out the gameplay demonstration on YouTube:
-[StickManBadminton Demo](https://www.youtube.com/your_video_link_here)
+Check out the gameplay demonstration on Google Drive:
+[StickManBadminton Demo](https://drive.google.com/file/d/1PP2bYJcBR7BYThMZTCKkJW73poz9YS4P/view?usp=sharing)
 
 ### Development Environment
 - **FPGA Board**: DE1-SoC
