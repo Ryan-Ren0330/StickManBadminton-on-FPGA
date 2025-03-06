@@ -61,5 +61,7 @@ The game is implemented entirely in Verilog HDL, with modules handling:
 ## 📄 License
 
 Feel free to use or modify these Verilog files for educational or personal projects. If you use this repository as part of your own work, a mention or link back to this project would be greatly appreciated.
-https://github.com/Ryan-Ren0330/StickManBadminton-on-FPGA/blob/main/LICENSE
+
+See the [LICENSE](https://github.com/Ryan-Ren0330/StickManBadminton-on-FPGA/blob/main/LICENSE) file for more details.
+
 Happy Gaming on FPGA!
