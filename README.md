@@ -9,6 +9,10 @@ StickManBadminton-on-FPGA is a two-player interactive badminton game implemented
 For a detailed overview of the project, including design concepts, implementation details, and demonstrations, please refer to the presentation slides:
 [StickManBadminton Presentation](https://docs.google.com/presentation/d/1zoz6aC_Ih6Uw6YF6MzBEiaykrYxHg3aTIHqkL9wZQng/edit?usp=sharing)
 
+### Demo Video
+Check out the gameplay demonstration on YouTube:
+[StickManBadminton Demo](https://www.youtube.com/your_video_link_here)
+
 ### Development Environment
 - **FPGA Board**: DE1-SoC
 - **Software**: Quartus Prime 18.1
